@@ -151,3 +151,4 @@ const styles = StyleSheet.create({
 console.loh("hi");
 let cnst = setTimeout(()=>{},1000);
 let a = 10;
+var c =10;

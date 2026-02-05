@@ -148,6 +148,3 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
 }); 
-console.loh("hi");
-let cnst = setTimeout(()=>{},1000);
-let a = 10;

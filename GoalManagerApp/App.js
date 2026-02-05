@@ -149,3 +149,4 @@ const styles = StyleSheet.create({
   },
 }); 
 console.loh("hi");
+let cnst = setTimeout(()=>{},1000);

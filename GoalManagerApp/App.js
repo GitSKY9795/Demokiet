@@ -150,4 +150,4 @@ const styles = StyleSheet.create({
 }); 
 console.loh("hi");
 let cnst = setTimeout(()=>{},1000);
-console.log("HOPE");
+let a = 10;
